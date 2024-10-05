@@ -8,9 +8,9 @@ import {
   DiAws,
   DiNodejs,
   DiMongodb,
-  DiPython,
+  // DiPython,
   DiGit,
-  DiJava,
+  // DiJava,
   DiBootstrap,
   DiCss3,
   DiHtml5,
@@ -18,14 +18,14 @@ import {
   DiGoogleAnalytics,
 } from "react-icons/di";
 import {
-  SiRedis,
-  SiFirebase,
+  // SiRedis,
+  // SiFirebase,
   SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
+  // SiSolidity,
+  // SiPostgresql,
   SiTypescript,
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
+// import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (
